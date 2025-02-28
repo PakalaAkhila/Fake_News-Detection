@@ -1,0 +1,29 @@
+WELFake: Word Embedding Over Linguistic Features for Fake News Detection
+
+IEEE Transactions on Computational Social Systems,Volume:8,Issue:4,Aug.2021
+
+
+
+Bidirectional encoder representations from
+transformer (BERT), convolutional neural network (CNN), fake
+news, linguistic feature, machine learning (ML), text classification,
+voting classifier, word embedding (WE).
+
+
+WELFake
+
+welfake
+
+
+welfake_detection
+
+
+tid
+Headline
+NBody
+Prediction
+
+
+
+welfake_detection,detection_ratio,detection_accuracy
+
